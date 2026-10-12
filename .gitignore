@@ -1,0 +1,14 @@
+__pycache__/
+.zen/
+mlruns/
+pipeline/__pycache__/
+steps/__pycache__/
+
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
