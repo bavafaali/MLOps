@@ -5,3 +5,10 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+.env
+output/
+data/ingested.txt
+data/summary.txt
+data/prioritized.txt
+*.pyc
